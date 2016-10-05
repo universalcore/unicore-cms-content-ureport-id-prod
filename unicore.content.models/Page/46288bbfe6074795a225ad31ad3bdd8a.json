@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "cdaafe87368d4779af44405b15a018d0"
+  ], 
   "id": null, 
   "content": "Kami mengikuti aturan pada batasan usia dimana hukum berlaku, namun kami juga menghormati Konvensi pada hak-hak anak Pasal 13 mengenai mendukung hak seorang anak untuk bebas berekspresi. Dalam U-report Indonesia kami bertanya apakah Anda berusia lebih dari 14 tahun. ", 
   "source": "2c0a88a47ca2456e818b5c2fcc2461ca", 
