@@ -4,14 +4,14 @@
   "language": "ind_ID", 
   "title": "Bagaimana jawaban Anda digunakan?", 
   "primary_category": "47fcd6cd08134280b57506fa679e2ffb", 
-  "created_at": "2016-10-05T03:16:30.951494+00:00", 
+  "created_at": "2016-10-05T03:16:30+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-10-05T03:17:40.510533+00:00", 
+  "modified_at": "2016-10-05T04:03:38.626532+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
