@@ -6,12 +6,12 @@
   "primary_category": "2236c07a7dba4404b35bc64038b088c2", 
   "created_at": "2016-10-05T03:05:49+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-10-05T03:06:53.149768+00:00", 
+  "modified_at": "2016-10-05T03:18:17.182807+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-u-reporters-have-pay-u-report", 
   "uuid": "56c9a23eb72f4436ab2e741ba175f358"
