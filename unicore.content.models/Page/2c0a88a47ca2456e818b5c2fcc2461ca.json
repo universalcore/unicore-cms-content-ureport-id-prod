@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Find out now ", 
+  "language": "eng_GB", 
+  "title": "Is there a minimum age to become a U-Reporter ?  ", 
+  "primary_category": "2236c07a7dba4404b35bc64038b088c2", 
+  "created_at": "2016-10-05T03:12:44.685053+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-10-05T03:12:44.685403+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "We follow the law on age minimums where a law exists, but we also look to support Convention on the rights of the child Article 13 around supporting the right of a child to freedom of expression. In U-Report Indonesia we ask that you are older than 14.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "there-minimum-age-become-u-reporter", 
+  "uuid": "2c0a88a47ca2456e818b5c2fcc2461ca"
+}
