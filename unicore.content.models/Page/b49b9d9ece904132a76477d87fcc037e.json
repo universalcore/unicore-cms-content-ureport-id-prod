@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "2c0a88a47ca2456e818b5c2fcc2461ca"
+  ], 
   "id": null, 
   "content": "U-Reporters can stop at any time by sending the keyword STOP, which triggers their leaving the project. If they change their mind they can re-join.  ", 
   "source": null, 
