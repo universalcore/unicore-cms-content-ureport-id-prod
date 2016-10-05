@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "221ea09e437e48ab8ece9ae54417c211"
+  ], 
   "id": null, 
   "content": "Hasil jajak pendapat U-Report divisualisasikan melalui situs publik, dan mitra kami (NGOS, pemerintah, masyarakat sipil, badan-badan PBB, beberapa diantaranya) menggunakannya untuk mencapai perubahan untuk Anda dan komunitas Anda. Kami tidak melakukan jejak pendapat hanya demi mengumpulkan suara, tapi kami melibatkan generasi muda dalam isu-sisu yang mempengaruhi mereka sehingga mereka bisa bisa mempunyai pengaruh terhadap proses pengambilan keputusan. ", 
   "source": "10d1d14574d94a6bb77f3dc164a3fe1f", 
