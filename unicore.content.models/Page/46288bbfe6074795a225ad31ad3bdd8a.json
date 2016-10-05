@@ -6,12 +6,12 @@
   "primary_category": "47fcd6cd08134280b57506fa679e2ffb", 
   "created_at": "2016-10-05T03:13:37+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-10-05T03:13:54.987300+00:00", 
+  "modified_at": "2016-10-05T03:17:40.623890+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "apakah-ada-batasan-usia-untuk-menjadi-u-reporter", 
   "uuid": "46288bbfe6074795a225ad31ad3bdd8a"
