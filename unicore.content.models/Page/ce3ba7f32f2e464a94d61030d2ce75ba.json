@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Anda bisa berhenti kapanpun Anda mau ", 
+  "language": "ind_ID", 
+  "title": "Bagaimana caranya jika ingin berhenti menjadi U-Reporter? ", 
+  "primary_category": "47fcd6cd08134280b57506fa679e2ffb", 
+  "created_at": "2016-10-05T03:10:58.352937+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-05T03:10:58.353209+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "U-reporters bisa berhenti kapanpun dengan mengirimkan kata kunci STOP, yang akan menandakan bahwa mereka meninggalkan proyek. Jika mereka berubah fikiran mereka bisa bergabung kembali. ", 
+  "source": "b49b9d9ece904132a76477d87fcc037e", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "bagaimana-caranya-jika-ingin-berhenti-menjadi-u-reporter", 
+  "uuid": "ce3ba7f32f2e464a94d61030d2ce75ba"
+}
