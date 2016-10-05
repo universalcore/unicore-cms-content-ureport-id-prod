@@ -10,14 +10,11 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "221ea09e437e48ab8ece9ae54417c211", 
-    "be0e37882cb44c7bad4fd934e8f6d11e"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "Ya, nomor telepon tersembunyi di dalam sistem. Bahkan mereka dengan akses tingkat tertinggi tidak akan bisa melihat nomor telepon U-Reporter. Para pengguna U-Reporter juga diberikan pilihan untuk memiliki nama panggilan atau tetap menjadi private. Bagi mereka yang memilih nama panggilan, tidak akan digunakan di luar sistem tanpa izin U-Reporter. ", 
   "source": "83bcaefd443c4696b2bb6a3635582889", 
