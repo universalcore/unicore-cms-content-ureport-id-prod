@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "4bf78cc24350428fafcadd05c003679f"
+  ], 
   "id": null, 
   "content": "Saat ini ada jutaan generasi muda di berbagai belahan dunia yang menjadi U-Reporters. U-Report aktif di lebih dari 25 negara di seluruh dunia. Siapapun dengan ketertarikan pada isu-isu yang berdampak pada generasi mudah bisa menjadi U-Reporter melalui U-Report Indonesia. Tidak jadi masalah dimanapun Anda tinggal di negara tersebut. ", 
   "source": "6c10e45486154853b804ce8ac9fb5660", 
