@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Informasi Anda aman bersama kami ", 
+  "language": "ind_ID", 
+  "title": "Apakah U-Report anonim? ", 
+  "primary_category": "597634eb2b8b47e5ba3ec3bd946948d1", 
+  "created_at": "2016-10-05T02:34:50.094265+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-10-05T02:34:50.094558+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Ya, nomor telepon tersembunyi di dalam sistem. Bahkan mereka dengan akses tingkat tertinggi tidak akan bisa melihat nomor telepon U-Reporter. Para pengguna U-Reporter juga diberikan pilihan untuk memiliki nama panggilan atau tetap menjadi private. Bagi mereka yang memilih nama panggilan, tidak akan digunakan di luar sistem tanpa izin U-Reporter. ", 
+  "source": "83bcaefd443c4696b2bb6a3635582889", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "apakah-u-report-anonim", 
+  "uuid": "88672393639547048d73c4c2602dd7a9"
+}
