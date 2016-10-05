@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "597634eb2b8b47e5ba3ec3bd946948d1", 
+  "language": "ind_ID", 
+  "title": "Pengantar U-Report ", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "pengantar-u-report", 
+  "source": "3869e09aaa284dd291f83d046e4ead12", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
